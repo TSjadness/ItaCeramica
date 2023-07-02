@@ -9,5 +9,5 @@ O Sistema de Gerenciamento de Projetos será uma aplicação web responsiva, que
 
 <br>-Tecnologias Utilizadas:
 O sistema está utilizando as seguintes tecnologias:
-Linguagens de programação: HTML, CSS e JavaScript.
+<br>Linguagens de programação: HTML, CSS e JavaScript.
 
