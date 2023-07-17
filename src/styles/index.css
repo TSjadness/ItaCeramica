@@ -23,6 +23,24 @@ header {
     justify-content: flex-start;
     align-items: center;
   }
+
+    .login {
+    background-color: rgb(255, 115, 0);
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-top: -1%;
+    margin-left: 80%;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    width: 200%;
+    border-radius: 5%;
+  }
+
+
 }
 
 header img {
@@ -47,6 +65,8 @@ header div h3 {
   border: none;
   border-radius: 5px;
 }
+
+
 
 @media screen and (max-width: 768px) {
   header .container {
@@ -266,4 +286,3 @@ footer {
     }
   }
 }
-
